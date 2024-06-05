@@ -1,4 +1,6 @@
-# James Dempsey and the Breakpoints
+![James Dempsey and the Breakpoint Logo](jdbp-full-logo.png)
+
+## James Dempsey and the Breakpoints
 
 James Dempsey and the Breakpoints is a nerdy, nerdy band performing humorous, original songs about software development, including favorites from their #5 Billboard-charting comedy album Backtrace. This year marks the 10th LIVE near WWDC concert, making the show a true WWDC-week tradition.
 
