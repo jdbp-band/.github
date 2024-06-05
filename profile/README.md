@@ -1,4 +1,4 @@
-![James Dempsey and the Breakpoint Logo](jdbp-full-logo.png)
+![James Dempsey and the Breakpoint Logo](profile/jdbp-full-logo.png)
 
 ## James Dempsey and the Breakpoints
 
